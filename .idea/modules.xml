@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/node01/node01.iml" filepath="$PROJECT_DIR$/node01/node01.iml" />
       <module fileurl="file://$PROJECT_DIR$/node02.iml" filepath="$PROJECT_DIR$/node02.iml" />
       <module fileurl="file://$PROJECT_DIR$/node03/node03.iml" filepath="$PROJECT_DIR$/node03/node03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/node04/node04.iml" filepath="$PROJECT_DIR$/node04/node04.iml" />
       <module fileurl="file://$PROJECT_DIR$/nodejs_practice.iml" filepath="$PROJECT_DIR$/nodejs_practice.iml" />
     </modules>
   </component>
